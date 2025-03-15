@@ -1,7 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Samuel! </h1>
+<h1>I have nothing at the moment😅</h1>
+
+<h2>👨‍💻 Chaos engineering projects :</h2>
+
+
+<h2>📜 Certifications</h2>
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://x.com/SGGarcia1206
+[instagram]: https://www.instagram.com/sam._.isgone/
+[linkedin]: www.linkedin.com/in/sam-gallegos-3a19a8353
 
 <!--
-**SamuelGarica06/SamuelGarica06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
