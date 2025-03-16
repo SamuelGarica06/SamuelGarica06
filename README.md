@@ -1,11 +1,14 @@
 <h1>Hi, I'm Samuel! </h1>
 <h1>I have nothing at the moment😅</h1>
 
-<h2>👨‍💻 Chaos engineering projects :</h2>
+<h2>👨‍💻Information Technology Project</h2>
+Projects coming soon
 
+<h2>👨‍🔧 Chaos Engineering projects :</h2>
+Nothing at the moment 
 
 <h2>📜 Certifications</h2>
-
+Empty
 <h2> 🤳 Connect with me:</h2>
 
 
