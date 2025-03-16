@@ -1,5 +1,5 @@
-<h1>Hi, I'm Samuel! </h1>
-<h1>I have nothing at the moment😅</h1>
+<h1>Hi, I'm Samuel, an IT Enthusiast👨‍🎓</h1>
+<h1>I have nothing at the moment</h1>
 
 <h2>👨‍💻Information Technology Project</h2>
 Projects coming soon
@@ -9,7 +9,7 @@ Nothing at the moment
 
 <h2>📜 Certifications</h2>
 Empty
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with moi:</h2>
 
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
