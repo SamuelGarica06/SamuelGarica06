@@ -15,7 +15,7 @@
 
 [twitter]: https://x.com/SGGarcia1206
 [instagram]: https://www.instagram.com/sam._.isgone/
-[linkedin]: www.linkedin.com/in/sam-gallegos-3a19a8353
+[linkedin]: https://www.linkedin.com/in/sam-gallegos-3a19a8353/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
